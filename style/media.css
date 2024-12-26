@@ -1,0 +1,43 @@
+@media (max-width:930px) {
+    .header-head {
+        display: none;
+    }
+
+    .bars {
+        display: flex;
+    }
+
+    .navbar-iteams {
+        padding: 20px 30px;
+
+        ul {
+            display: none;
+        }
+
+        .Login {
+            display: none;
+        }
+    }
+
+    .section-1 {
+        width: 100%;
+        margin: 0 auto;
+        padding: 10px;
+        align-items: start;
+    }
+
+    .arrow-left {
+        top: 470px;
+        left: 20px;
+    }
+
+    .arrow-right {
+        top: 470px;
+        right: 85px;
+    }
+
+    .section-2 {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
